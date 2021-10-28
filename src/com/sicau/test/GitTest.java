@@ -8,5 +8,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Git测试1");
         System.out.println("Git Commit 2");
+        System.out.println("Git-TEST Branch Commit Code");
     }
 }
