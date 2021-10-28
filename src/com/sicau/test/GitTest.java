@@ -1,0 +1,11 @@
+package com.sicau.test;
+
+/**
+ * @author shkstart
+ * @create 2021-10-28 15:11
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("Git测试1");
+    }
+}
