@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Git测试1");
         System.out.println("Git Commit 2");
         System.out.println("Git-TEST Branch Commit Code");
+        System.out.println("master code ");
     }
 }
