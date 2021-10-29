@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master code ");
         System.out.println("git-test code");
         System.out.println("git-test code11111");
+        System.out.println("Gitee update me!!")
     }
 }
